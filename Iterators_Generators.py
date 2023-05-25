@@ -32,11 +32,4 @@ def Fibonacci(maximo):
         yield elementoAtual
 
         elementoAtual, proximoElemento = proximoElemento, elementoAtual + proximoElemento
-
-
-
-
-
-
-
-
+        
