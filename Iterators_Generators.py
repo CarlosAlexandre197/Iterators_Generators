@@ -1,4 +1,4 @@
-'''Exemplo01'''
+'''Exemplo001'''
 
 #Iterators
 
@@ -20,7 +20,7 @@ class Fibonacci:
 
         return valorRetorno
     
-'''Exemplo02'''
+'''Exemplo002'''
 
 #Generators
 
