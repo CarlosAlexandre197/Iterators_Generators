@@ -36,7 +36,7 @@ def calcular_total_pedido(codigo):
         print('Você pediu um X-Tudo no valor de 17,00')
         return 17.00
     elif codigo == 200:
-        print('Você pediu um Refrigerante Lata no valor de 5,00')
+        print('Você pediu um refrigerante Lata no valor de 5,00')
         return 5.00
     elif codigo == 201:
         print('Você pediu um Chá Gelado no valor de 4,00')
