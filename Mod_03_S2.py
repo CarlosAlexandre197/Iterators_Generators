@@ -1,3 +1,5 @@
+'''Semana 02'''
+
 def decorator_imprimir(func):
     def inner(capital, taxa, tempo):
         print("CAPITAL: " + str(capital) + " TAXA: " + str(taxa) + " TEMPO: " + str (tempo))
