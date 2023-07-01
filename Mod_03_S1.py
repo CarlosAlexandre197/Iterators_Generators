@@ -1,3 +1,5 @@
+'''Semana 01'''
+
 import requests
 
 class FipeIterator:
