@@ -1,4 +1,4 @@
-'''Semana03'''
+'''Semana 03'''
 
 def exibir_cardapio():
     cardapio = """
